@@ -15,7 +15,6 @@ I'm learning to become a fullstack developer as part of the Late Summer 2023 Coh
 - Guitar 
 - Fashion
 
-> The best incentive is no incentive
 
 
 
