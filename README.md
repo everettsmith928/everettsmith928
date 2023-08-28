@@ -1,9 +1,9 @@
-### Welcome, I'm Everett
+# Welcome, I'm Everett
 
 ## I'm currently a student at CodeWorks in Boise, Idaho
 
-# I'm learning to become a fullstack developer as part of the Late Summer 2023 Cohort
-# Some of my interests are Painting, Photography, Philosophy, Coffee, Wok Cooking, Guitar, and fashion
+### I'm learning to become a fullstack developer as part of the Late Summer 2023 Cohort
+### Some of my interests are Painting, Photography, Philosophy, Coffee, Wok Cooking, Guitar, and fashion
 
 <!--
 **everettsmith928/everettsmith928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
