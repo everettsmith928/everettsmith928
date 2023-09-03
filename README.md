@@ -1,6 +1,6 @@
 # Welcome, I'm Everett
 
-I'm currently a student at CodeWorks in Boise, Idaho
+I'm currently a student at CodeWorks in Boise, Idaho. I enjoy almost anything technical and love to learn.
 
 I'm learning to become a fullstack developer as part of the Late Summer 2023 Cohort graduating at the start of November
 
