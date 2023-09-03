@@ -8,12 +8,13 @@ I'm learning to become a fullstack developer as part of the Late Summer 2023 Coh
 - Design
 - Lifting / Yoga
 - Biking
-- Painting
+- Painting / Drawing
 - Photography 
 - Philosophy 
 - Coffee
 - Guitar 
 - Fashion
+- Dota 2
 
 ### Currently Learning
 - Javascript
