@@ -24,6 +24,8 @@ I'm learning to become a fullstack developer as part of the Late Summer 2023 Coh
 - Node
 - SQL
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/everettsmith928?theme=dark)
+
 
 <!--
 **everettsmith928/everettsmith928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
