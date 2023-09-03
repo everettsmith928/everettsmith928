@@ -24,7 +24,7 @@ I'm learning to become a fullstack developer as part of the Late Summer 2023 Coh
 - Node
 - SQL
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/everettsmith928?theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/everettsmith928?theme=dark&ext=activity)
 
 
 <!--
