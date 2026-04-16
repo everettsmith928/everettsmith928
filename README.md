@@ -1,6 +1,6 @@
 # Hey, I'm Everett
-Currently I'm the Lead Software Developer at **Slant3D**
-Artist into Developer, I did a Bootcamp (Late Summer 2023) and working Fullstack Engineer since.
+Currently I'm the Lead Software Developer at **Slant3D**.
+I'm an artist turned developer, I did a Fullstack Bootcamp at CodeWorks (Late Summer 2023) and working as a Fullstack Developer since.
 
 ### Building
 - **[Teleport](https://teleportpod.com)** — 3D print-on-demand Portal for over 10,000 E-commerce small businesses. Full-stack: Vue 3, Node/TypeScript, Prisma, AWS.
