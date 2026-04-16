@@ -1,44 +1,16 @@
-# Welcome, I'm Everett
+# Hey, I'm Everett 👋
+Lead Software Developer at **Slant3D**, based in Boise, Idaho.
+Bootcamp grad (Late Summer 2023 cohort) turned full-stack engineer — I like building the whole stack and learning whatever the problem needs.
 
-I'm a Full Stack Developer in Boise, Idaho. I enjoy almost anything technical and love to learn.
+### Building
+- **[Teleportpod](https://teleportpod.com)** — 3D print-on-demand portal and file marketplace. Full-stack: Vue 3, Node/TypeScript, Prisma, AWS.
+- **Kraken** — Distributed printer farm management system tracking ~40 printers across Tetra nodes via WebSocket + Redis.
+- **[Slant3D Public API](https://slant3dapi.com)** — Public-facing API with OpenAPI docs and tiered rate limiting.
 
-I'm learning to become a fullstack developer as part of the Late Summer 2023 Cohort graduating at the start of November
+### Stack
+TypeScript · Node · Vue 3 · Prisma · MySQL/PostgreSQL · AWS (EC2, RDS, ECR) · Docker · Nginx · GitHub Actions
 
-### Some of my interests are: 
-- Design
-- Lifting / Yoga
-- Biking
-- Painting / Drawing
-- Photography 
-- Philosophy 
-- Coffee
-- Guitar 
-- Fashion
-- Dota 2
-
-### Currently Learning
-- Javascript
-- HTML
-- CSS
-- Bootstrap
-- Vue
-- Node
-- SQL
+### Outside of code
+Lifting, yoga, biking, coffee, guitar, painting, photography, Dota 2, and the occasional philosophy rabbit hole.
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/everettsmith928?theme=dark&ext=activity)
-
-
-<!--
-**everettsmith928/everettsmith928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
