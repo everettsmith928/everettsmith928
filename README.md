@@ -1,16 +1,16 @@
-# Hey, I'm Everett 👋
-Lead Software Developer at **Slant3D**, based in Boise, Idaho.
-Bootcamp grad (Late Summer 2023 cohort) turned full-stack engineer — I like building the whole stack and learning whatever the problem needs.
+# Hey, I'm Everett
+Currently I'm the Lead Software Developer at **Slant3D**
+Artist into Developer, I did a Bootcamp (Late Summer 2023) and working Fullstack Engineer since.
 
 ### Building
-- **[Teleportpod](https://teleportpod.com)** — 3D print-on-demand portal and file marketplace. Full-stack: Vue 3, Node/TypeScript, Prisma, AWS.
-- **Kraken** — Distributed printer farm management system tracking ~40 printers across Tetra nodes via WebSocket + Redis.
-- **[Slant3D Public API](https://slant3dapi.com)** — Public-facing API with OpenAPI docs and tiered rate limiting.
+- **[Teleport](https://teleportpod.com)** — 3D print-on-demand Portal for over 10,000 E-commerce small businesses. Full-stack: Vue 3, Node/TypeScript, Prisma, AWS.
+- **Kraken** — Internal Distributed printer farm management with system full tracking of printers and prints across nodes.
+- **[Slant3D Public API](https://slant3dapi.com)** — The 3D Print-Farm API. Make something real with a single JSON object.
 
 ### Stack
-TypeScript · Node · Vue 3 · Prisma · MySQL/PostgreSQL · AWS (EC2, RDS, ECR) · Docker · Nginx · GitHub Actions
+TypeScript · Node · Vue 3 · GSAP · Prisma · MySQL/PostgreSQL · AWS (EC2, RDS, ECR) · Docker · Nginx · GitHub Actions 
 
 ### Outside of code
-Lifting, yoga, biking, coffee, guitar, painting, photography, Dota 2, and the occasional philosophy rabbit hole.
+Lifting, nutrition, yoga, biking, espresso, painting, photography, Dota 2, and the occasional philosophy book.
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/everettsmith928?theme=dark&ext=activity)
