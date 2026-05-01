@@ -1,6 +1,6 @@
 # Hey, I'm Everett
-Currently I'm the Lead Software Developer at **Slant3D**.
-I'm an artist turned developer, I did a Fullstack Bootcamp at CodeWorks (Late Summer 2023) and working as a Fullstack Developer since.
+Currently I'm the Lead Software Developer at **Slant 3D**.
+I'm an artist turned developer, I did a Fullstack Bootcamp at CodeWorks (Late Summer 2023) and working as a Fullstack Developer since I completed the course.
 
 ### Building
 - **[Teleport](https://teleportpod.com)** — 3D print-on-demand Portal for over 10,000 E-commerce small businesses. Full-stack: Vue 3, Node/TypeScript, Prisma, AWS.
@@ -11,6 +11,6 @@ I'm an artist turned developer, I did a Fullstack Bootcamp at CodeWorks (Late Su
 TypeScript · Node · Vue 3 · GSAP · Prisma · MySQL/PostgreSQL · AWS (EC2, RDS, ECR) · Docker · Nginx · GitHub Actions 
 
 ### Outside of code
-Lifting, nutrition, yoga, biking, espresso, painting, photography, Dota 2, and the occasional philosophy book.
+Lifting, nutrition, yoga, biking, espresso, painting, photography, Dota 2, and reading.
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/everettsmith928?theme=dark&ext=activity)
