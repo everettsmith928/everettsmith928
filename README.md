@@ -1,4 +1,7 @@
 # Hey, I'm Everett
+
+**https://everettdevs.com**
+
 Currently I'm the Lead Software Developer at **Slant 3D**.
 I'm an artist turned developer, I did a Fullstack Bootcamp at CodeWorks (Late Summer 2023) and working as a Fullstack Developer since I completed the course.
 
@@ -13,6 +16,5 @@ TypeScript · Node · Vue 3 · GSAP · Prisma · MySQL/PostgreSQL · AWS (EC2, R
 ### Outside of code
 Lifting, nutrition, yoga, biking, espresso, painting, photography, Dota 2, and reading.
 
-**https://everettdevs.com**
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/everettsmith928?theme=dark&ext=activity)
