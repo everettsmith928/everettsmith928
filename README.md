@@ -13,4 +13,6 @@ TypeScript · Node · Vue 3 · GSAP · Prisma · MySQL/PostgreSQL · AWS (EC2, R
 ### Outside of code
 Lifting, nutrition, yoga, biking, espresso, painting, photography, Dota 2, and reading.
 
+**https://everettdevs.com**
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/everettsmith928?theme=dark&ext=activity)
